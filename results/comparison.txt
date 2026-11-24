@@ -1,0 +1,1 @@
+lenet5_enhanced: Accuracy=0.9898, Precision=0.9900, Recall=0.9898, F1=0.9897

@@ -1,0 +1,16 @@
+# 数据集：GTSRB 官方数据集体积约 477MB，请按 README 自行下载
+data/
+# 报告解包中间产物（Word 拆包后的 xml 与图片）
+unpacked/
+神经网络孙玉杰230410434_fixed.docx
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
