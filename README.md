@@ -1,5 +1,12 @@
 # Traffic Sign Recognition · GTSRB 德国交通标志识别
 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-preprocess-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)
+[![LeNet-5](https://img.shields.io/badge/LeNet--5_acc-98.98%25-success)](#结果gtsrb-测试集)
+[![Classes](https://img.shields.io/badge/classes-43-blue)](#结果gtsrb-测试集)
+
 基于 PyTorch 的交通标志分类实验：在同一份数据、同一套预处理下实现 **LeNet-5** 与 **自定义 CNN** 两套卷积网络，完成 数据加载 → 增强 → 训练 → 测试评估 → 可视化 → 报告生成 的全流程。
 
 ## 结果（GTSRB 测试集）
